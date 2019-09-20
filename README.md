@@ -18,8 +18,8 @@ recruiter before the deadline.
 * You do not need to make changes to the front end, there's no need to install
   the Node dependencies in `react-ui/` (but you're welcome to do so if you
   choose)
-* To start the Flask server, follow the (official Quickstart
-  instructions)[https://flask.palletsprojects.com/en/1.1.x/quickstart/]
+* To start the Flask server, follow the [official Quickstart
+  instructions](https://flask.palletsprojects.com/en/1.1.x/quickstart/)
 
 ## Instructions
 
