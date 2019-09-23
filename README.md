@@ -31,8 +31,8 @@ own posts. Here's an example of how it might look with some mocked-up data:
 The frontend is complete but it doesn't work because it attempts to make AJAX
 requests to some API endpoints that don't exist.
 
-With Flask, mock a RESTful API for testing purposes. You can do this however
-you'd like; the only technology you're required to use is Flask.
+Add routes to `server.py` to make the frontend work and eliminate any errors in the JS console.
+You can do this however you'd like; the only technology you're required to use is Flask.
 
 You can find the unminified React source code in `react-ui/src`. (We
 just symlinked the bundled/minified versions to Flask's default `template/`
