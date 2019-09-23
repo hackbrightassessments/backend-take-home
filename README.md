@@ -28,7 +28,7 @@ own posts. Here's an example of how it might look with some mocked-up data:
 
 ![screenshot](screenshot.png)
 
-The frontend is complete but it doesn't work because it attempts to make XHR
+The frontend is complete but it doesn't work because it attempts to make AJAX
 requests to some API endpoints that don't exist.
 
 With Flask, mock a RESTful API for testing purposes. You can do this however
