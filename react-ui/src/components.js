@@ -32,7 +32,7 @@ function Post(props) {
         <h5>Comments</h5>
         {comments.map((comment, i) => (
           <Comment
-            key={comment.uid}
+            key={comment.commentId}
             author={comment.author}
             body={comment.body}
           />
