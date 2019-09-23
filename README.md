@@ -23,6 +23,11 @@ recruiter before the deadline.
 
 ## Instructions
 
+The app is a micro-blog, where users can view posts, comments, and create their
+own posts. Here's an example of how it might look with some mocked-up data:
+
+![screenshot](screenshot.png)
+
 The frontend is complete but it doesn't work because it attempts to make XHR
 requests to some API endpoints that don't exist.
 
